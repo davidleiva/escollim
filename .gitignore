@@ -128,3 +128,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+my-backend/node_modules/.package-lock.json
+my-backend/package-lock.json
